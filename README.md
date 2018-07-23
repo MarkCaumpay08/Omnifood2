@@ -1,2 +1,2 @@
 # Omnifood2
-Main Omnifood
+Trial Omnifood
